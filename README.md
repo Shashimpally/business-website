@@ -134,8 +134,8 @@ cd business-website
 4. Click **Save**
 5. GitHub provides a live link like:
 
-   ```
-   [https://yo/business-website/](https://github.com/Shashimpally/business-website/)
+   ```[
+   (https://github.com/Shashimpally/business-website/tree/main)
    ```
 
 ---
@@ -158,7 +158,7 @@ You can add real screenshots after deploying.
 
 ## 📞 Contact
 
-**Acme Solutions**
+**Shashi Solutions**
 📧 [hello@Shashi.example](mailto:hello@acme.example)
 📱 +91 98765 43210
 🌍 Hyderabad, Telangana, India
