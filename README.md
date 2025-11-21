@@ -9,7 +9,7 @@ This project demonstrates real-world front-end skills including layouts, design 
 ---
 
 ## 🚀 Live Demo  
-([Replace with your deployed link](https://shashi-business-site.netlify.app/))
+([ link](https://shashi-business-site.netlify.app/))
 
 
 ---
